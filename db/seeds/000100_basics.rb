@@ -24,5 +24,5 @@ slide.parts.create!(
 slide = Slide.create!(title: 'Image')
 slide.parts.create!(
   part_type: 'image',
-  contents: '/images/example.webm'
+  contents: '/images/dog_eating_a_shoe.webp'
 )
